@@ -71,14 +71,14 @@ def load_dictionaries():
     unitex="dic/unitex-lingua"
     languages={
             "cos":"dic/corsican/BibleBilingueCorseFrancais2015_co_TEI_TXT.dic",
-            "deu":"%s/de/Dela/dela_utf8.dic"%unitex,
-            "eng":"%s/en/Dela/dela-en-public_utf8.dic"%unitex,
-            "fra":"%s/fr/Dela/Dela_fr_utf8.dic"%unitex,
-            "ita":"%s/it/Dela/mini-delaf_utf8.dic"%unitex,
+            "deu":"%s/de/dela_utf8.dic"%unitex,
+            "eng":"%s/en/dela-en-public_utf8.dic"%unitex,
+            "fra":"%s/fr/Dela_fr_utf8.dic"%unitex,
+            "ita":"%s/it/mini-delaf_utf8.dic"%unitex,
             "nld":"dic/opentaal-wordlist/full.txt",
-            "por":"%s/pt-PT/Dela/Delaf_V2_utf8.dic"%unitex,
+            "por":"%s/pt-PT/Delaf_V2_utf8.dic"%unitex,
             "ron":"dic/romanian/ELRC/Romanian_Wordlist_dict.ro1.sortedU.txt",
-            "spa":"%s/es/Dela/delaf_utf8.dic"%unitex
+            "spa":"%s/es/delaf_utf8.dic"%unitex
     }
 
     src_licences={
