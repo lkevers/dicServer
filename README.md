@@ -14,6 +14,7 @@ dicServer is available with default linguistic resources for nine languages, but
 
 	python3 dicServer.py WORKING_DIRECTORY
 
+- WORKING_DIRECTORY is the place where the scipt starts; linguistic resources are organized into dedicated directories under this working directory.
 - Port is specified into the script (default: **1112**)
 - Logging is available into *dicServer.log*
 
@@ -102,3 +103,4 @@ The resources offered by default come from different sources :
 # dicServer Code License #
 
 The Python codes are released under [CeCILL_V2.1](http://www.cecill.info/licences/Licence_CeCILL_V2.1-fr.html).
+
